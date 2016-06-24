@@ -1,5 +1,7 @@
 # LPmini-Prototype
 
+v1.4b - Fixed a few errors in 1.4, changed jumper section to reflect FR5994 launchpad config
+
 v1.4 - MSP430FR5994 board, onboard debugger
 
 v1.3 - thin form 0.5" wide BGA package
